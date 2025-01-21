@@ -5,7 +5,7 @@ using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
-namespace WillianGoedert.Function
+namespace WmsDeveloper.Function
 {
     public class fncValidaCPF
     {
